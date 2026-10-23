@@ -20,3 +20,11 @@ Task 5 :
 <br>
 <img width="502" height="477" alt="image" src="https://github.com/user-attachments/assets/2512e3f6-7a84-4b8b-b47a-5d85b92027fc" />
 <br>
+Task 6 :
+<br>
+<img width="413" height="202" alt="Screenshot 2026-10-23 193806" src="https://github.com/user-attachments/assets/99b81f64-d321-4d9e-9e47-1cb38a398348" />
+<br>
+Task 7 :
+<br>
+<img width="567" height="335" alt="image" src="https://github.com/user-attachments/assets/00895810-73a3-48e9-ba80-d2177cfbfb91" />
+<br>
