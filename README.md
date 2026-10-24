@@ -36,3 +36,15 @@ Task 9 :
 <br>
 <img width="387" height="280" alt="image" src="https://github.com/user-attachments/assets/c393d32c-d9b4-45ee-8ff1-41c2e844c015" />
 <br>
+Task 10 :
+<br>
+<img width="702" height="467" alt="image" src="https://github.com/user-attachments/assets/57875720-4ea5-494a-8cae-99dad9641f3c" />
+<br>
+Task 11 :
+<br>
+<img width="470" height="492" alt="image" src="https://github.com/user-attachments/assets/3b0997fe-1a3c-408b-b063-95a365b80728" />
+<br>
+Task 12 :
+<br>
+<img width="247" height="542" alt="image" src="https://github.com/user-attachments/assets/a68886ae-3d46-46a3-b372-0e146cf59035" />
+<br>
