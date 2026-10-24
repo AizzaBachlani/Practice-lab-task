@@ -1,4 +1,4 @@
-# Practice-lab-task
+# Practice lab task
 ## Aizza Imran | 26k-2551 | BDS-1B
 Task 1 :
 <br>
